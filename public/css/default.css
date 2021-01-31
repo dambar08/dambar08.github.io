@@ -12,8 +12,6 @@
 	--previewBg: rgb(251, 249, 243, 0.8);
 	--previewShadow: #948659;
 	--buttonColor: black;
-
-
 }
 
 
@@ -363,6 +361,10 @@ h6 {
 	-webkit-box-shadow: -2px 7px 21px -9px rgba(0, 0, 0, 0.75);
 	-moz-box-shadow: -2px 7px 21px -9px rgba(0, 0, 0, 0.75);
 	box-shadow: -2px 7px 21px -9px rgba(0, 0, 0, 0.75);
+}
+
+.about-me h4 {
+	color: var(--secondaryText);
 }
 
 .thumbnail {
